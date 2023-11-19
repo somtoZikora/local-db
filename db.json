@@ -3,7 +3,7 @@
     {
       "productName": "Concrete",
       "productId": "C1001",
-      "productImage": "https://nimbus-public-app-files.s3.eu-central-1.amazonaws.com/images/lca-products/concrete.png",
+      "productImage": "https://d3u1w7clo788x.cloudfront.net/images/lca-products/concrete.png",
       "manufacturer": "heidelbergcement",
       "tags": ["building", "construction", "material"],
       "components": [
@@ -33,7 +33,7 @@
     {
       "productName": "Eco-Friendly Laptop",
       "productId": "EFL2002",
-      "productImage": "https://nimbus-public-app-files.s3.eu-central-1.amazonaws.com/images/lca-products/computer.jpg",
+      "productImage": "https://d3u1w7clo788x.cloudfront.net/images/lca-products/computer.jpg",
       "manufacturer": "GreenTech Innovations",
       "tags": ["electronic", "stationery"],
       "components": [
@@ -63,7 +63,7 @@
     {
       "productName": "Solar Powered Watch",
       "productId": "SPW3003",
-      "productImage": "https://nimbus-public-app-files.s3.eu-central-1.amazonaws.com/images/lca-products/watch.jpg",
+      "productImage": "https://d3u1w7clo788x.cloudfront.net/images/lca-products/watch.jpg",
       "manufacturer": "EcoTime Ltd.",
       "tags": ["electronic"],
       "components": [
@@ -93,7 +93,7 @@
     {
       "productName": "Electric Bicycle",
       "productId": "EB4004",
-      "productImage": "https://nimbus-public-app-files.s3.eu-central-1.amazonaws.com/images/lca-products/bycicle.jpg",
+      "productImage": "https://d3u1w7clo788x.cloudfront.net/images/lca-products/bycicle.jpg",
       "manufacturer": "EcoRide Solutions",
       "tags": ["electronic"],
       "components": [
