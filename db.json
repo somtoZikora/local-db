@@ -1,0 +1,185 @@
+{
+  "presets": [
+    {
+      "productName": "Eco-Friendly Laptop",
+      "productId": "EFL1001",
+      "productImage": "./src/assets/images/lca-products/computer.jpg",
+      "manufacturer": "GreenTech Innovations",
+      "tags": null,
+      "components": [
+        {
+          "id": "0",
+          "componentName": "Battery",
+          "origin": "Japan",
+          "weightPerKiloProduct": 0.2,
+          "co2EmissionsPerKiloProduct": 50
+        },
+        {
+          "id": "1",
+          "componentName": "Display",
+          "origin": "South Korea",
+          "weightPerKiloProduct": 0.3,
+          "co2EmissionsPerKiloProduct": 40
+        },
+        {
+          "id": "2",
+          "componentName": "Keyboard",
+          "origin": "Germany",
+          "weightPerKiloProduct": 0.1,
+          "co2EmissionsPerKiloProduct": 20
+        }
+      ]
+    },
+    {
+      "productName": "Solar Powered Watch",
+      "productId": "SPW2002",
+      "productImage": "./src/assets/images/lca-products/watch.jpg",
+      "manufacturer": "EcoTime Ltd.",
+      "tags": null,
+      "components": [
+        {
+          "id": "0",
+          "componentName": "Solar Panel",
+          "origin": "China",
+          "weightPerKiloProduct": 0.15,
+          "co2EmissionsPerKiloProduct": 30
+        },
+        {
+          "id": "1",
+          "componentName": "Watch Strap",
+          "origin": "Italy",
+          "weightPerKiloProduct": 0.05,
+          "co2EmissionsPerKiloProduct": 10
+        },
+        {
+          "id": "2",
+          "componentName": "Glass Face",
+          "origin": "Switzerland",
+          "weightPerKiloProduct": 0.1,
+          "co2EmissionsPerKiloProduct": 25
+        }
+      ]
+    },
+    {
+      "productName": "Electric Bicycle",
+      "productId": "EB3003",
+      "productImage": "./src/assets/images/lca-products/bycicle.jpg",
+      "manufacturer": "EcoRide Solutions",
+      "tags": null,
+      "components": [
+        {
+          "id": "0",
+          "componentName": "Electric Motor",
+          "origin": "USA",
+          "weightPerKiloProduct": 1.5,
+          "co2EmissionsPerKiloProduct": 100
+        },
+        {
+          "id": "1",
+          "componentName": "Bicycle Frame",
+          "origin": "Canada",
+          "weightPerKiloProduct": 2,
+          "co2EmissionsPerKiloProduct": 150
+        },
+        {
+          "id": "2",
+          "componentName": "Bicycle Chain",
+          "origin": "France",
+          "weightPerKiloProduct": 0.5,
+          "co2EmissionsPerKiloProduct": 40
+        }
+      ]
+    },
+    {
+      "productName": "Recycled Paper Notebook",
+      "productId": "RPN4004",
+      "productImage": "./src/assets/images/lca-products/paper.jpg",
+      "manufacturer": "PaperGreen Corp.",
+      "tags": null,
+      "components": [
+        {
+          "id": "0",
+          "componentName": "Recycled Paper",
+          "origin": "USA",
+          "weightPerKiloProduct": 0.8,
+          "co2EmissionsPerKiloProduct": 10
+        },
+        {
+          "id": "1",
+          "componentName": "Cardboard Cover",
+          "origin": "Canada",
+          "weightPerKiloProduct": 0.15,
+          "co2EmissionsPerKiloProduct": 5
+        },
+        {
+          "id": "2",
+          "componentName": "Metal Spiral Bind",
+          "origin": "Mexico",
+          "weightPerKiloProduct": 0.05,
+          "co2EmissionsPerKiloProduct": 8
+        }
+      ]
+    },
+    {
+      "productName": "Organic Cotton T-Shirt",
+      "productId": "OCT5005",
+      "productImage": "./src/assets/images/lca-products/cotton-shirt.jpg",
+      "manufacturer": "EcoWear Fashion",
+      "tags": null,
+      "components": [
+        {
+          "id": "0",
+          "componentName": "Organic Cotton Fabric",
+          "origin": "India",
+          "weightPerKiloProduct": 0.6,
+          "co2EmissionsPerKiloProduct": 12
+        },
+        {
+          "id": "1",
+          "componentName": "Natural Dye",
+          "origin": "Brazil",
+          "weightPerKiloProduct": 0.02,
+          "co2EmissionsPerKiloProduct": 3
+        },
+        {
+          "id": "2",
+          "componentName": "Sewing Thread",
+          "origin": "Vietnam",
+          "weightPerKiloProduct": 0.03,
+          "co2EmissionsPerKiloProduct": 1
+        }
+      ]
+    },
+    {
+      "productName": "Reusable Glass Bottle",
+      "productId": "RGB6006",
+      "productImage": "./src/assets/images/lca-products/glass-bottle.jpg",
+      "manufacturer": "ClearChoice Containers",
+      "tags": null,
+      "components": [
+        {
+          "id": "0",
+          "componentName": "Borosilicate Glass Body",
+          "origin": "Germany",
+          "weightPerKiloProduct": 0.7,
+          "co2EmissionsPerKiloProduct": 20
+        },
+        {
+          "id": "1",
+          "componentName": "Silicone Sleeve",
+          "origin": "South Korea",
+          "weightPerKiloProduct": 0.2,
+          "co2EmissionsPerKiloProduct": 15
+        },
+        {
+          "id": "2",
+          "componentName": "Plastic Cap",
+          "origin": "Japan",
+          "weightPerKiloProduct": 0.1,
+          "co2EmissionsPerKiloProduct": 8
+        }
+      ]
+    }
+  ],
+  "products": []
+}
