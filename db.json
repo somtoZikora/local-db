@@ -5,7 +5,7 @@
       "productId": "C1001",
       "productImage": "https://nimbus-public-app-files.s3.eu-central-1.amazonaws.com/images/lca-products/concrete.png",
       "manufacturer": "heidelbergcement",
-      "tags": null,
+      "tags": ["building", "construction", "material"],
       "components": [
         {
           "id": "0",
@@ -35,7 +35,7 @@
       "productId": "EFL2002",
       "productImage": "https://nimbus-public-app-files.s3.eu-central-1.amazonaws.com/images/lca-products/computer.jpg",
       "manufacturer": "GreenTech Innovations",
-      "tags": null,
+      "tags": ["electronic", "stationery"],
       "components": [
         {
           "id": "0",
@@ -65,7 +65,7 @@
       "productId": "SPW3003",
       "productImage": "https://nimbus-public-app-files.s3.eu-central-1.amazonaws.com/images/lca-products/watch.jpg",
       "manufacturer": "EcoTime Ltd.",
-      "tags": null,
+      "tags": ["electronic"],
       "components": [
         {
           "id": "0",
@@ -95,7 +95,7 @@
       "productId": "EB4004",
       "productImage": "https://nimbus-public-app-files.s3.eu-central-1.amazonaws.com/images/lca-products/bycicle.jpg",
       "manufacturer": "EcoRide Solutions",
-      "tags": null,
+      "tags": ["electronic"],
       "components": [
         {
           "id": "0",
@@ -125,7 +125,7 @@
       "productId": "RPN5005",
       "productImage": "./src/assets/images/lca-products/paper.jpg",
       "manufacturer": "PaperGreen Corp.",
-      "tags": null,
+      "tags": ["stationery"],
       "components": [
         {
           "id": "0",
@@ -155,7 +155,7 @@
       "productId": "OCT6006",
       "productImage": "./src/assets/images/lca-products/cotton-shirt.jpg",
       "manufacturer": "EcoWear Fashion",
-      "tags": null,
+      "tags": ["fabric", "clothing"],
       "components": [
         {
           "id": "0",
@@ -185,7 +185,7 @@
       "productId": "RGB7007",
       "productImage": "./src/assets/images/lca-products/glass-bottle.jpg",
       "manufacturer": "ClearChoice Containers",
-      "tags": null,
+      "tags": ["material", "packaging"],
       "components": [
         {
           "id": "0",
