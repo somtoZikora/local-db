@@ -123,7 +123,7 @@
     {
       "productName": "Recycled Paper Notebook",
       "productId": "RPN5005",
-      "productImage": "./src/assets/images/lca-products/paper.jpg",
+      "productImage": "https://d3u1w7clo788x.cloudfront.net/images/lca-products/paper.png",
       "manufacturer": "PaperGreen Corp.",
       "tags": ["stationery"],
       "components": [
@@ -153,7 +153,7 @@
     {
       "productName": "Organic Cotton T-Shirt",
       "productId": "OCT6006",
-      "productImage": "./src/assets/images/lca-products/cotton-shirt.jpg",
+      "productImage": "https://d3u1w7clo788x.cloudfront.net/images/lca-products/cotton-shirt.png",
       "manufacturer": "EcoWear Fashion",
       "tags": ["fabric", "clothing"],
       "components": [
@@ -183,7 +183,7 @@
     {
       "productName": "Reusable Glass Bottle",
       "productId": "RGB7007",
-      "productImage": "./src/assets/images/lca-products/glass-bottle.jpg",
+      "productImage": "https://d3u1w7clo788x.cloudfront.net/images/lca-products/glass-bottle.png",
       "manufacturer": "ClearChoice Containers",
       "tags": ["material", "packaging"],
       "components": [
