@@ -11,21 +11,28 @@
           "id": "0",
           "componentName": "Cement",
           "origin": "China",
-          "weightPerKiloProduct": 0.45,
+          "weightPerKiloProduct": 0.125,
           "co2EmissionsPerKiloProduct": 0.75
         },
         {
           "id": "1",
           "componentName": "Sand",
           "origin": "USA",
-          "weightPerKiloProduct": 0.4,
-          "co2EmissionsPerKiloProduct": 0
+          "weightPerKiloProduct": 0.25,
+          "co2EmissionsPerKiloProduct": 0.5
         },
         {
           "id": "2",
           "componentName": "Crushed rock",
           "origin": "USA",
-          "weightPerKiloProduct": 0.8,
+          "weightPerKiloProduct": 0.5,
+          "co2EmissionsPerKiloProduct": 0.35
+        },
+        {
+          "id": "3",
+          "componentName": "Water",
+          "origin": "Germany",
+          "weightPerKiloProduct": 0.125,
           "co2EmissionsPerKiloProduct": 0.2
         }
       ]
